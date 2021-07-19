@@ -13,6 +13,12 @@ body {
     #691eff 70%,
     #1eaaff 90%
   );
+
+  /* Para que no se repita el linear-gradient */
+  height: 100%;
+  margin: 0;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
 }
 
 code {

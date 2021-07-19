@@ -2,6 +2,18 @@
 
 Echa un vistazo al proyecto [Aquí...](https://franbcn93.github.io/NewsNY).
 
+Proyecto en el que si falta alguna imagen, lo que hace es que envia otra por defecto.
+
+También tiene mejoras como en el linear-gradient en el que no se repite, En las opciones del select, pone el texto centrado, y pone las cartas una seguida de la anterior.
+
+English:
+
+Take a look at the project [Here ...] (https://franbcn93.github.io/NewsNY).
+
+Project in which if any image is missing, what it does is that it sends another one by default.
+
+It also has improvements such as the linear-gradient in which it is not repeated. In the select options, it puts the text centered, and puts the cards one followed by the previous one.
+
 ## Available Scripts
 
 In the project directory, you can run:
