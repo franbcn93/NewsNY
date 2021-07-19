@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/NewsNY/static/css/main.2d7845a4.chunk.css",
+    "main.js": "/NewsNY/static/js/main.6d8f862e.chunk.js",
+    "main.js.map": "/NewsNY/static/js/main.6d8f862e.chunk.js.map",
+    "runtime-main.js": "/NewsNY/static/js/runtime-main.94c86548.js",
+    "runtime-main.js.map": "/NewsNY/static/js/runtime-main.94c86548.js.map",
+    "static/js/2.5ab5c59e.chunk.js": "/NewsNY/static/js/2.5ab5c59e.chunk.js",
+    "static/js/2.5ab5c59e.chunk.js.map": "/NewsNY/static/js/2.5ab5c59e.chunk.js.map",
+    "static/js/3.9faf14ca.chunk.js": "/NewsNY/static/js/3.9faf14ca.chunk.js",
+    "static/js/3.9faf14ca.chunk.js.map": "/NewsNY/static/js/3.9faf14ca.chunk.js.map",
+    "index.html": "/NewsNY/index.html",
+    "static/css/main.2d7845a4.chunk.css.map": "/NewsNY/static/css/main.2d7845a4.chunk.css.map",
+    "static/js/2.5ab5c59e.chunk.js.LICENSE.txt": "/NewsNY/static/js/2.5ab5c59e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.94c86548.js",
+    "static/js/2.5ab5c59e.chunk.js",
+    "static/css/main.2d7845a4.chunk.css",
+    "static/js/main.6d8f862e.chunk.js"
+  ]
+}
