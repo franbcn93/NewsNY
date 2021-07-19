@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-Echa un vistazo al proyecto [Aquí...](https://franbcn93.github.io/SeachMovies).
+Echa un vistazo al proyecto [Aquí...](https://franbcn93.github.io/NewsNY).
 
 ## Available Scripts
 
