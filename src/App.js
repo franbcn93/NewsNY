@@ -20,7 +20,6 @@ function App() {
       const resultado = await respuesta.json();
 
       // console.log(resultado);
-      // console.log(resultado.results);
       console.log(resultado.results);
 
       if (resultado.results == null) {
@@ -49,7 +48,8 @@ function App() {
         {error ? (
           <Error mensaje="An error has occured" />
         ) : (
-          <Card_2 datos={datos} />
+          // <Card_2 datos={datos} />
+          <Datos datos={datos} />
         )}
         {/* <Datos datos={datos} /> */}
       </div>
